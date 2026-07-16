@@ -49,6 +49,16 @@ My work includes microcontroller programming, sensor acquisition, serial communi
 - SimulIDE
 - Quartus and ModelSim
 
+## Featured projects
+
+### Driver Drowsiness Monitor
+
+Computer vision prototype for real-time driver eye-closure detection using Python, OpenCV, MediaPipe and the Eye Aspect Ratio method.
+
+The system implements continuous eye-closure timing, a two-stage non-blocking audio alarm and a simulated vehicle safety response.
+
+[View project](https://github.com/ramirezmosquedamiguel/driver-drowsiness-monitor)
+
 # Currently working on
 
 - Multi - sensor distance acquisition using ESP 32
