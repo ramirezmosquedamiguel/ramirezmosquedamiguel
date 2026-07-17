@@ -5,7 +5,7 @@ Automotive Systems Engineering student at **UPIITA - Instituto Politécnico Naci
 ## About me
 I am developing practical experience in the design, programming and integration of embedded systems for automotive applications.
 
-My work includes microcontroller programming, sensor acquisition, serial communication, actuador control, computer vision and development of prototypes related to vehicle safety and driver monitoring.
+My work includes microcontroller programming, sensor acquisition, serial communication, actuator control, computer vision and development of prototypes related to vehicle safety and driver monitoring.
 
 ## Technical interests
 
@@ -13,7 +13,7 @@ My work includes microcontroller programming, sensor acquisition, serial communi
 - Automotive electronics
 - Driver monitoring systems
 - Sensor integration and data acquisition
-- Vehicle safety and confort systems
+- Vehicle safety and comfort systems
 - Hardware and software integration
 
 ## Technologies
@@ -24,12 +24,12 @@ My work includes microcontroller programming, sensor acquisition, serial communi
 - Python
 - VHDL
 
-**Microcontrollers and plataforms**
+**Microcontrollers and platforms**
 
-- ESP 32
+- ESP32
 - ATmega
 - Arduino
-- Intel FPGA's and CPLD's
+- Intel FPGAs and CPLDs
 
 **Communication and interfaces**
 
@@ -61,10 +61,10 @@ The system implements continuous eye-closure timing, a two-stage non-blocking au
 
 # Currently working on
 
-- Multi - sensor distance acquisition using ESP 32
+- Multi-sensor distance acquisition using ESP 32
 - Automotive safety and confort prototypes
 
 # Contact
-- GitHhub: [ramirezmosquedamiguel](https://github.com/ramirezmosquedamiguel)
+- GitHub: [ramirezmosquedamiguel](https://github.com/ramirezmosquedamiguel)
 - LinkedIn: [Miguel Ángel Ramírez Mosqueda](https://www.linkedin.com/in/miguel-angel-ramirez-mosqueda-a370242bb/)
 - Email: ramirezmosquedamiguelangel@gmail.com
