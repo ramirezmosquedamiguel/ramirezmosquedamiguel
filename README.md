@@ -77,7 +77,7 @@ Dual-ATmega 328p embedded prototype implementing a distrubuted master-slave arch
 
 The system integrates a 4x4 keypad HMI, LM35 temperature acquisition, TWI/I²C communication, LCD feedback, Time-based scheduling, PWM fan control and L293 motor driver.
 
-[View project] (https://github.com/ramirezmosquedamiguel/automotive-hvac-controller)
+[View project](https://github.com/ramirezmosquedamiguel/automotive-hvac-controller)
 
 ---
 
