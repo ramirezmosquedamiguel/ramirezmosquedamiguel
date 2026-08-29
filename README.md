@@ -73,7 +73,7 @@ The system implements continuous eye-closure timing, a two-stage non-blocking au
 
 ### Automotive HVAC Controller
 
-Dual-ATmega 328p embedded prototype implementing a distrubuted master-slave architecture.
+Automotive HVAC prototype that monitors temperature conditions and controls cabin ventilation through manual or automatic operating modes, providing user feedback and multiple fan-speed levels.
 
 The system integrates a 4x4 keypad HMI, LM35 temperature acquisition, TWI/I²C communication, LCD feedback, Time-based scheduling, PWM fan control and L293 motor driver.
 
