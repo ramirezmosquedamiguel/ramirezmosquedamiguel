@@ -71,6 +71,16 @@ The system implements continuous eye-closure timing, a two-stage non-blocking au
 
 [View project](https://github.com/ramirezmosquedamiguel/driver-drowsiness-monitor)
 
+### Automotive HVAC Controller
+
+Dual-ATmega 328p embedded prototype implementing a distrubuted master-slave architecture.
+
+The system integrates a 4x4 keypad HMI, LM35 temperature acquisition, TWI/I²C communication, LCD feedback, Time-based scheduling, PWM fan control and L293 motor driver.
+
+[View project] (https://github.com/ramirezmosquedamiguel/automotive-hvac-controller)
+
+---
+
 ## Currently working on
 
 * Multi-sensor distance acquisition using ESP32
