@@ -27,34 +27,6 @@
 
 ## Featured Engineering Projects
 
-### 360° Ultrasonic Obstacle Detection System
-
-**Embedded sensing · Serial communication · Real-time visualization**
-
-Embedded prototype that combines two HC-SR04 ultrasonic sensors mounted back-to-back, a servomotor and Arduino firmware to acquire obstacle-distance measurements throughout a 360° environment.
-
-A Python graphical interface receives the measurements through serial communication and provides real-time distance-based visualization with invalid-measurement handling.
-
-**Technologies:** C/C++ · Arduino · HC-SR04 · UART · Python
-
-[View project →](https://github.com/ramirezmosquedamiguel/360-obstacle-detection-radar)
-
----
-
-### Driver Drowsiness Monitor
-
-**Computer vision · Driver monitoring · Vehicle safety**
-
-Real-time driver-monitoring prototype that detects prolonged eye closure using Python, OpenCV, MediaPipe and the Eye Aspect Ratio method.
-
-The system implements continuous closure timing, a two-stage non-blocking alarm strategy and a simulated vehicle safety response.
-
-**Technologies:** Python · OpenCV · MediaPipe · Computer Vision
-
-[View project →](https://github.com/ramirezmosquedamiguel/driver-drowsiness-monitor)
-
----
-
 ### Automotive HVAC Controller
 
 **Embedded control · Automotive comfort · Distributed electronics**
@@ -66,6 +38,34 @@ The system integrates two ATmega328P microcontrollers, LM35 temperature acquisit
 **Technologies:** C · ATmega328P · TWI/I²C · ADC · PWM · Timers
 
 [View project →](https://github.com/ramirezmosquedamiguel/automotive-hvac-controller)
+
+---
+
+### Voice-Controlled Car
+
+**Signal processing · Embedded control · Human–machine interaction**
+
+Functional ESP32-based mobile robot controlled through offline voice commands, without Wi-Fi, Bluetooth or cloud-based speech recognition.
+
+The system combines analog microphone conditioning, real-time digital band-pass filtering, energy-based command classification and PWM control of four DC motors through an L298N dual H-bridge.
+
+**Technologies:** C++ · ESP32 · ADC · Digital Filtering · PWM · MCP6002 · L298N
+
+[View project →](https://github.com/ramirezmosquedamiguel/voice-controlled-car)
+
+---
+
+### 360° Ultrasonic Obstacle Detection System
+
+**Embedded sensing · Serial communication · Real-time visualization**
+
+Embedded prototype that combines two HC-SR04 ultrasonic sensors mounted back-to-back, a servomotor and Arduino firmware to acquire obstacle-distance measurements throughout a 360° environment.
+
+A Python graphical interface receives the measurements through serial communication and provides real-time distance-based visualization with invalid-measurement handling.
+
+**Technologies:** C/C++ · Arduino · HC-SR04 · UART · Python
+
+[View project →](https://github.com/ramirezmosquedamiguel/360-obstacle-detection-radar)
 
 ---
 
