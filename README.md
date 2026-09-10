@@ -16,11 +16,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/miguel-angel-ramirez-mosqueda-a370242bb/">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:ramirezmosquedamiguelangel@gmail.com">Email</a>
-  &nbsp;•&nbsp;
-  Mexico City, Mexico
+  <a href="https://www.linkedin.com/in/miguel-angel-ramirez-mosqueda-a370242bb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ramirezmosquedamiguelangel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <br><br>
+  📍Mexico City, Mexico
 </p>
 
 ---
@@ -90,7 +93,7 @@ VHDL · Intel MAX II CPLDs
 
 ## Currently Working On
 
-Developing automotive embedded systems and vehicle-safety prototypes focused on driver monitoring, sensor integration and hardware–software implementation.
+Developing ADAS applications for an electric go-kart and a driver hand-position monitoring system for heavy-duty vehicles, with emphasis on sensor integration, embedded control and vehicle safety.
 
 ---
 
